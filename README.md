@@ -8,7 +8,7 @@ This project was built circa 2008 using a version of Runtime Revolution - now re
 
 The Rev-LiveCode stacks should be saved only with stackFileVersion 2.7 in order to ensure compatibility with the externals. 
 
-To date, we have tested the project:
+We have done limited testing of this open-source project:
 
 * The simulation runs on a Mac (MacBook Pro 2011) running Mac OS 10.13.2 (High Sierra) using LiveCode Community 8.1.8.
 
