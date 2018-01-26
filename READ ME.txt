@@ -1,0 +1,9 @@
+Click button "set and go" to open the simulation stack. This is a simulation of reaction and diffusion of a catalytic reaction - CO oxidation - in a porous solid catalyst pellet.
+
+WARNING: AFTER ANY CHANGES TO LIVECODE STACKS, MAKE SURE ALL STACKS ARE SAVED IN STACKFILEVERSION 2.7 ONLY.
+
+This project was originally developed circa 2008. The C++ externals were compiled on OS of that era. Changes to the externals made in 2018+ may require significant changes to the project.
+
+This stack sets the OS-dependent externals for stack "reactor pellet.rev" and then opens that stack.
+
+This stack "reactor pellet.rev" and the external "arrayexample.dll" (Win) or "arrayexample.bundle" (Mac) should be in the same location on disk. 

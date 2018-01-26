@@ -1,0 +1,7 @@
+This folder "src" contains the C++ source files used in making the externals.
+
+The C++ files are compiled to executable externals.
+
+Executable externals are DLL on Windows and application BUNDLE on Mac
+
+Externals are opened for use by the stack "Catalyst Pellet.rev" and are used by the stack "reactor pellet.rev" 
