@@ -6,6 +6,8 @@ For a Windows standalone version, see www.ReactorLab.net and click the tab "DOWN
 
 A simulation with simplified kinetics that has much of the same behavior of this system is the "Dynamic diffusion and reaction in a porous solid catalyst" Web Lab at www.ReactorLab.net and click the tab "WEB LABS." This system is also found in the "reaction-diffusion" GitHub Repository at this GitHub site. 
 
+To run the simulation, open the stack file "Catalyst Pellet.rev" in LiveCode. The folder "files" should be located in the same folder as that stack file. With the Catalyst Pellet stack open, click the button "set and go." This sets the externals file (.dll or .bundle) for the stack "reactor pellet.rev" in the "files" folder and opens the reactor pellet stack. Then click the "start" button to start the simulation.
+
 This project is currently being developed with the open-source, Community Edition of LiveCode. Get it at www.LiveCode.org. This project was originally built circa 2008 using a version of Runtime Revolution - now renamed LiveCode - and Mac and Win compilers of that era. 
 
 We have done limited testing of this open-source project:
