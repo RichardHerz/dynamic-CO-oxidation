@@ -12,7 +12,7 @@ We have done limited testing of this open-source project:
 
 * The simulation runs on a Mac (MacBook Pro 2011) running Mac OS 10.13.2 (High Sierra) using LiveCode Community 8.1.8.
 
-* The simulation opens the stacks but **crashes** after the "start" button is pressed on a virtual machine running Windows 7 using LiveCode Community 8.1.8. We  suspect this is due to a memory leak in the external. A similar problem occurred on a Mac under LiveCode version 7 but then went away with version 8 with no change to project files. 
+* The simulation opens the stacks but **crashes** after the "start" button is pressed on a virtual machine running Windows 7 using LiveCode Community 8.1.8. We  suspect this is due to a memory leak in the external. A similar problem occurred on a Mac under LiveCode version 7. 
 
 A simulation with simplified kinetics that has much of the same behavior of this system is the "Dynamic diffusion and reaction in a porous solid catalyst" Web Lab at www.ReactorLab.net and click the tab "WEB LABS." This system is also found in the "reaction-diffusion" GitHub Repository at this GitHub site. 
 
