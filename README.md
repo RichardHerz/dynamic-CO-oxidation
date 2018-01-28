@@ -10,11 +10,11 @@ A simulation with simplified kinetics that has much of the same behavior of this
 
 To run the simulation, open the stack file "Catalyst Pellet.rev" in LiveCode. The folder "files" must be located in the same folder as that stack file. With the Catalyst Pellet stack open, click the button "set and go." This sets the externals file (.dll or .bundle) for the stack "reactor pellet.rev" in the "files" folder and opens the reactor pellet stack. Then click the "start" button to start the simulation.
 
-This project is currently being developed with the open-source, Community Edition of LiveCode, version 8. Get it at www.LiveCode.org. This project was originally built circa 2008 using on Mac and Win compilers and a version of Runtime Revolution of that era, where Runtime Revolution was renamed LiveCode. 
+This project is currently being developed with the open-source, Community Edition of LiveCode, version 8. Get it at www.LiveCode.org. This project was originally built circa 2008 using Mac and Win compilers and a version of Runtime Revolution of that era, where Runtime Revolution was since renamed LiveCode. 
 
 We have done limited testing of this open-source project:
 
 * The simulation runs on a Mac (MacBook Pro 2011) running Mac OS 10.13.2 (High Sierra) using LiveCode Community 8.1.8.
 
-* The simulation opens the stacks but *crashes* after the "start" button is pressed on a virtual machine running Windows 7 using LiveCode Community 8.1.8. We  suspect this is due to a memory leak in the external. A similar problem occurred on a Mac under LiveCode versions 5-7 but has been fixed in version 8.1, at least.
+* The simulation opens the stacks but *crashes* after the "start" button is pressed on a virtual machine running Windows 7 and an HP laptop running Windows 10, both using LiveCode Community 8.1.8. We  suspect this is due to a memory leak in the external. A similar problem occurred on a Mac under LiveCode versions 5-7 but has been fixed in version 8.1, at least.
 
