@@ -4,7 +4,7 @@ For a video showing the project running, see www.ReactorLab.net and click the ta
 
 On Windows OS, currently, the simulation stacks will open but will *crash* if you click the "start" button. See testing below. 
 
-For a Windows standalone version that does run correctly, see www.ReactorLab.net and click the tab "DOWNLOAD" and see the dynamic Catalyst Pellet. 
+For a Windows standalone version that does run correctly, see www.ReactorLab.net and click the tab "DOWNLOAD" and see the dynamic Catalyst Pellet. Updates to the "reactor pellet.rev" stack, when saved with stackFileVersion 2.7, may be able to run with this standalone.
 
 A simulation with simplified kinetics that has much of the same behavior of this system is the "Dynamic diffusion and reaction in a porous solid catalyst" Web Lab at www.ReactorLab.net and click the tab "WEB LABS." This system is also found in the "reaction-diffusion" GitHub Repository at this GitHub site. 
 
