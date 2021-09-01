@@ -10,7 +10,7 @@ A simulation with simplified kinetics that has much of the same behavior of this
 
 To run the simulation, open the stack file "Catalyst Pellet.rev" in LiveCode. The folder "files" must be located in the same folder as that stack file. With the Catalyst Pellet stack open, click the button "set and go." This sets the externals file (.dll or .bundle) for the stack "reactor pellet.rev" in the "files" folder and opens the reactor pellet stack. Then click the "start" button in the reactor pellet stack to start the simulation. When running, the simulation calls functions in the compiled externals file.
 
-This project is currently being developed with the open-source, Community Edition of LiveCode, version 8. Get it at www.LiveCode.org. This project was originally built circa 2008 using Mac and Win compilers of that era and version 2.4 of Runtime Revolution, where Runtime Revolution was later renamed LiveCode. 
+This project is currently being developed with LiveCode, version 8. Get it at LiveCode.com. This project was originally built circa 2008 using Mac and Win compilers of that era and version 2.4 of Runtime Revolution, where Runtime Revolution was later renamed LiveCode. 
 
 We have done limited testing of this open-source project:
 
